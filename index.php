@@ -3,6 +3,7 @@
         <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 <script>
 
+<?php echo "hello world" $var ?>
 function sendToDatabase(){
 
   var name = document.getElementById('sn').value;
